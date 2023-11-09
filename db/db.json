@@ -12,5 +12,10 @@
         "title": "Sams Note",
         "text": "Note",
         "id": "b33669df-a8a5-42cd-a39f-130f07af8b3a"
+    },
+    {
+        "title": "New  note",
+        "text": "\nThis is a note ",
+        "id": "78eb24e5-02fd-492e-b172-c721bff9d689"
     }
 ]
